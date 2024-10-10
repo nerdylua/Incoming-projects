@@ -1,6 +1,6 @@
 # Incoming-projects
 
-## Projects I wwish to make in the future
+## Projects I wish to make in the future
 1. Python automation script.
 1. IOT based project.
 1. Full Stack Application.
