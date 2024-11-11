@@ -11,7 +11,7 @@
 ## Project ideas
 - [ ] Detecting fake news (using NLP)
 - [ ] Detecting driver drowsiness (using scipy, imutils and dlib)
-- [ ] Potato disease classification (using CNN)
+- [x] Potato disease classification (using CNN)
 - [ ] Image caption generator (using tensorflow)
 - [ ] Real estate price prediction (using sklearn and linear regression using banglore home prices dataset)
 - [ ] An app that uses sentiment analysis to recognize emotions through facial expressions for individuals who can’t speak.
