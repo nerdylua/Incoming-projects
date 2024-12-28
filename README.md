@@ -12,6 +12,8 @@
 - [x] Potato disease classification (using CNN)
 - [ ] Image caption generator (using tensorflow)
 - [ ] Real estate price prediction (using sklearn and linear regression using banglore home prices dataset)
+- [ ] Modern family luke's idea
+- [ ] find my friends and family: sos app
 
 Beginner:
 1. Churn Prediction
