@@ -1,5 +1,3 @@
-# Incoming-projects
-
 ## Projects I wish to make in the future
 1. Python automation script.
 1. IOT based project.
@@ -14,21 +12,10 @@
 - [ ] Real estate price prediction (using sklearn and linear regression using banglore home prices dataset)
 - [ ] Modern family luke's idea
 - [ ] find my friends and family: sos app
+- [ ] an AI bot that pushes a person to complete their tasks of the day and future endeavors, unlike a regular reminder system, it must have human like speech and also acts as a friend.
+- [ ] Overlay AI assistance for technical interviews. Inspo: finalround ai, https://github.com/ibttf/interview-coder
 
-Beginner:
-1. Churn Prediction
-2. Sales Forecasting 
-3. Sentiment Analysis (Twitter API / NLTK) 
-
-Intermediate :
-1. Automatic Number Plate Recognition (Computer Vision) 
-2. Text Generation (Transformer Modules / Hugging Face) 
-3. Exercise Correction
-4. Comment Toxicity Classification
-
-Advance:
+## ML
 1. Image Super Resolution (Boost image quality) 
-2. Game Playing ML Model
 3. Neural Machine Translation
-4. Action Recognition
 5. Neural Style Transfer (Transfer art style to image)
