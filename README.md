@@ -2,7 +2,6 @@
 1. Python automation script.
 1. IOT based project.
 1. Full Stack Application.
-1. Game development (plus if involves physics simulation).
 1. Scraping project.
 1. Cloud Computing secure file storage using cryptography
 
