@@ -6,6 +6,7 @@
 - [ ] Fine-tune LLM using Unsloth, build a neural network
 - [ ] Password Manager
 - [ ] Build an MCP server
+- [ ] ml proj on eustachian tube
 - [x] AI agents that take PRDs and automatically improve them via multi-agent collaborative debate. https://github.com/nerdylua/DraftWise
 [Make it truly agentic, using openai agents]
 
