@@ -6,11 +6,7 @@
 - [ ] Fine-tune LLM using Unsloth, build a neural network
 - [ ] Password Manager
 - [ ] Build an MCP server
-- [ ] ml proj on eustachian tube
 - [ ] 4th sem lab web
-- [ ] brainrot: screen time control
-- [ ] student portal to track courses and assignments
-- [ ] clear useless repos, add hosting, format, etc
 - [x] AI agents that take PRDs and automatically improve them via multi-agent collaborative debate. https://github.com/nerdylua/DraftWise
 [Make it truly agentic, using openai agents]
 
