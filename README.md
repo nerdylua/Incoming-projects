@@ -7,5 +7,6 @@
 [Make it truly agentic, using openai agents]
 - [x] Password Manager https://github.com/nerdylua/password-manager-web
 - [ ] Modern family luke's idea + integrating diff hospitals and departments with a unified framework : https://github.com/nerdylua/HealthSync
-- [ ] Build an MCP server
 - [ ] 4th sem lab web
+- [ ] iot el proj
+- [ ] Build an MCP server
