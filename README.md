@@ -6,8 +6,7 @@
 - [x] Password Manager https://github.com/nerdylua/password-manager-web
 - [x] AI agents that take PRDs and automatically improve them via multi-agent collaborative debate. https://github.com/nerdylua/DraftWise
 [Make it truly agentic, using openai agents]
+- [x] AI-based IOT integrated Office Automation Assistant https://github.com/nerdylua/VoiceOps
 - [ ] Modern family luke's idea + integrating diff hospitals and departments with a unified framework : https://github.com/nerdylua/HealthSync
-- [ ] 4th sem lab web https://github.com/nerdylua/4th-sem-lab-web
-- [ ] iot el proj https://github.com/nerdylua/IOT-EL
 - [ ] Build an MCP server https://github.com/nerdylua/mcp-server
 - [ ] ATL project https://github.com/nerdylua/BAL_Latest_Version
