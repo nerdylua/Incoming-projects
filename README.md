@@ -10,3 +10,4 @@
 - [ ] Modern family luke's idea + integrating diff hospitals and departments with a unified framework : https://github.com/nerdylua/HealthSync
 - [ ] Build an MCP server https://github.com/nerdylua/mcp-server
 - [ ] ATL project https://github.com/nerdylua/BAL_Latest_Version
+- [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
