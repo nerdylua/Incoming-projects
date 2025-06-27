@@ -8,6 +8,6 @@
 [Make it truly agentic, using openai agents]
 - [x] AI-based IOT integrated Office Automation Assistant https://github.com/nerdylua/VoiceOps
 - [ ] Modern family luke's idea + integrating diff hospitals and departments with a unified framework : https://github.com/nerdylua/HealthSync
-- [ ] Build an MCP server https://github.com/nerdylua/mcp-server
+- [ ] Build that legendary website that you have in your mind
 - [ ] ATL project https://github.com/nerdylua/BAL_Latest_Version
 - [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
