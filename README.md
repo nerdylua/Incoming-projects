@@ -11,4 +11,4 @@
 - [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
 - [ ] Modern family luke's idea + integrating diff hospitals and departments with a unified framework : https://github.com/nerdylua/HealthSync
 - [ ] ATL project https://github.com/nerdylua/BAL_Latest_Version
-most probable question maker based on pyqs instead of manually going through it each time
+- [ ] most probable question maker based on pyqs instead of manually going through it each time
