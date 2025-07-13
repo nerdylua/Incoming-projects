@@ -14,3 +14,7 @@
 - [ ] most probable question maker based on pyqs instead of manually going through it each time
 - [ ] internship tracker
 - [ ] draftwise
+aws certificatation
+write research paper for that
+lam research challenge 
+nptel selection
