@@ -16,5 +16,4 @@
 - [ ] draftwise
 aws certificatation
 write research paper for that
-lam research challenge 
 nptel selection
