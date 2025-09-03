@@ -13,3 +13,4 @@
 - [ ] most probable question maker based on pyqs instead of manually going through it each time
 - [ ] draftwise ~ improve
 - [ ] track the concepts and questions solved with analytics on how to improve, with a leaderboard. codolio
+- [ ] harmonic.ai this is so cool, i obviously dont have the large dataset that they do, but ill try to replicate the agentic workflow in a smaller scale
