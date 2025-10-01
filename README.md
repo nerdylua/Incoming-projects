@@ -13,3 +13,4 @@
 - [ ] most probable question maker based on pyqs instead of manually going through it each time
 - [ ] draftwise ~ improve
 - [ ] track the concepts and questions solved with analytics on how to improve, with a leaderboard. codolio
+- [ ] Meeting conversational voice agent
