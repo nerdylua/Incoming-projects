@@ -9,7 +9,6 @@
 - [ ] Build that legendary frontend specific website that you have in your mind
 - [ ] Not Pizza
 - [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
-- [ ] ATL project https://github.com/nerdylua/ATL
 - [ ] most probable question maker based on pyqs instead of manually going through it each time
 - [ ] draftwise ~ improve
 - [ ] track the concepts and questions solved with analytics on how to improve, with a leaderboard. codolio
