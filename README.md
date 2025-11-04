@@ -10,4 +10,4 @@
 - [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
 - [ ] most probable question maker based on pyqs instead of manually going through it each time
 - [ ] draftwise ~ improve
-- [ ] track the concepts and questions solved with analytics on how to improve, with a leaderboard. codolio
+- [ ] track the concepts and questions solved with analytics on how to improve, with a leaderboard. codolio like
