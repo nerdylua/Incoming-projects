@@ -7,6 +7,6 @@
 - [x] AI agents that take PRDs and automatically improve them via multi-agent collaborative debate. https://github.com/nerdylua/DraftWise
 - [x] AI-based IOT integrated Office Automation Assistant https://github.com/nerdylua/VoiceOps
 - [x] Not Pizza
+- [x] draftwise ~ improve
 - [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
-- [ ] draftwise ~ improve
-- [ ] open all repos, finish what hasnt been finished, visibility, deleting, etc and finish this please
+- [ ] open all repos, finish what hasnt been finished, visibility, deleting, etc
