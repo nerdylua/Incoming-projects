@@ -8,5 +8,5 @@
 - [x] AI-based IOT integrated Office Automation Assistant https://github.com/nerdylua/VoiceOps
 - [x] Not Pizza
 - [x] draftwise ~ improve
-- [ ] Disabilities simulations website [finish functionalities and make an extension] https://github.com/nerdylua/disabilities-simulator
+- [x] Disabilities simulations website
 - [ ] open all repos, finish what hasnt been finished, visibility, deleting, etc
