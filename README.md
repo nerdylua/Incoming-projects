@@ -13,4 +13,4 @@
 - [x] internship tracker with an interviews and thoughts blog page
 - [x] open all repos, finish what hasnt been finished, visibility, deleting, etc
 
-Now just gotta sit and grind for placements:)
+## Now just gotta sit and grind for placements:)
